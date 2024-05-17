@@ -1,0 +1,21 @@
+sceneSetups:
+- path: Assets/Animations/Scenes/Main Menu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Animations/Scenes/Level 1.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Animations/Scenes/Level 2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Animations/Scenes/GameOver.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Animations/Scenes/You Win.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
